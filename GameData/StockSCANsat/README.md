@@ -8,7 +8,7 @@ This is free and unencumbered software released into the public domain.
 
 StockSCANsat is a ModuleManager config file which adds the possibility to use the SCANsat mod without the additional parts.
 
-This config file requires SCANsat v14.X and ModuleManager v2.6.X.
+This config file requires SCANsat v16.X and ModuleManager v2.6.X.
 This mod support Asteroid Day mod and the Contract Packs: SCANSat.
 
 #### What is it modify on the Squad Stock Parts?
