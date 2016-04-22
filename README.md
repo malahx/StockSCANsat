@@ -1,6 +1,6 @@
 #### StockSCANsat
-#### A plugin for Kerbal Space Program 1.0.4
-#### Copyright 2015 Malah
+#### A plugin for Kerbal Space Program
+#### Copyright 2016 Malah
 
 This is free and unencumbered software released into the public domain.
 
@@ -14,14 +14,14 @@ This mod support Asteroid Day mod and the Contract Packs: SCANSat.
 #### What is it modify on the Squad Stock Parts?
 
 All the SCAN functions of SCANsat is put on the parts:
-*[LO] SCAN Radar Altimetry (unlocked at Tier 4) -> M700 Survey Scanner (unlocked at Tier 7 will be Tier 5 (Space Exploration)),
-*[BIO] [ANOM] SCAN Multispectral sensor (unlocked at Tier 6) -> M700 Survey Scanner (unlocked at Tier 7 will be Tier 5 (Space Exploration)),
-*[BTDT] SCAN Been There Done That (unlocked at Tier 7) -> Surface Scanning Module (unlocked at Tier 7),
-*[HI] SCAN SAR Altimetry Sensor (unlocked at Tier 8) -> M4435 Narrow-Band Scanner (unlocked at Tier 9 will be Tier 8 (Advanced Science Tech)).
+* [LO] SCAN Radar Altimetry (unlocked at Tier 4) -> M700 Survey Scanner (unlocked at Tier 7 is now at Tier 5 (Space Exploration)),
+* [BIO] [ANOM] SCAN Multispectral sensor (unlocked at Tier 6) -> M700 Survey Scanner (unlocked at Tier 7 is now at Tier 5 (Space Exploration)),
+* [BTDT] SCAN Been There Done That (unlocked at Tier 7) -> Surface Scanning Module (unlocked at Tier 7),
+* [HI] SCAN SAR Altimetry Sensor (unlocked at Tier 8) -> M4435 Narrow-Band Scanner (unlocked at Tier 9 is now at Tier 8 (Advanced Science Tech)).
 
 With the Asteroid Day mod the SCAN functions of SCANsat is put on the parts:
-*[LO] SCAN Radar Altimetry (unlocked at Tier 4) -> SENTINEL Infrared Telescope (unlocked at Tier 7 will be Tier 5 (Space Exploration)),
-*[BIO] [ANOM] SCAN Multispectral sensor (unlocked at Tier 6) -> M700 Survey Scanner (unlocked at Tier 7 will be Tier 6 (Advanced Exploration)),
+* [LO] SCAN Radar Altimetry (unlocked at Tier 4) -> SENTINEL Infrared Telescope (unlocked at Tier 7 is now at Tier 5 (Space Exploration)),
+* [BIO] [ANOM] SCAN Multispectral sensor (unlocked at Tier 6) -> M700 Survey Scanner (unlocked at Tier 7 is now at Tier 6 (Advanced Exploration)),
 
 All SCANsat parts can't be accessed on the editor. If you don't use them on your savegame, you can delete the parts folder from SCANSat.
 
@@ -45,11 +45,21 @@ You need to delete the StockSCANsat folder in your KSP/GameData folder.
 
 #### Changelog
 
+v1.02 - 2016.04.22
+* Update ModuleManager to 2.6.22,
+* Update to KSP 1.1
+
+v1.01 - 2015.11.11
+* Fix: Corrected the TechRequired = Unresearcheable,
+* Update ModuleManager to 2.6.13,
+* Update to KSP 1.0.5
+
 v1.00 - 2015.08.30
 * First release
 
 #### Thanks!
 
+* to monstah to have requested this mod,
 * to DMagic and damny for the mod SCANsat,
 * to sarbian for the mod ModuleManager,
 * to nightingale for the mods Contract Configurator,
@@ -62,7 +72,8 @@ v1.00 - 2015.08.30
 
 #### Links
 
-* http://forum.kerbalspaceprogram.com/threads/99869
+* http://forum.kerbalspaceprogram.com/threads/99869#StockSCANsat
+* http://spacedock.info/mod/114/StockSCANsat
 * https://github.com/malahx/StockSCANsat 
 * SCANsat: http://forum.kerbalspaceprogram.com/threads/80369
 * ModuleManager: http://forum.kerbalspaceprogram.com/threads/55219

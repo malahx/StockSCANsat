@@ -1,22 +1,27 @@
 {
-	"NAME": "StockSCANsat",
-	"URL": "https://raw.githubusercontent.com/malahx/StockSCANsat/master/StockSCANsat.version",
-	"CHANGE_LOG_URL": "https://raw.githubusercontent.com/malahx/StockSCANsat/master/README.md", 
-	"DOWNLOAD": "",
-	"VERSION":{"MAJOR":1,"MINOR":0,"PATCH":0,"BUILD":0},
+	"NAME"				: "StockSCANsat",
+	"URL"				: "https://raw.githubusercontent.com/malahx/StockSCANsat/master/StockSCANsat.version",
+	"CHANGE_LOG_URL"	: "https://raw.githubusercontent.com/malahx/StockSCANsat/master/README.md", 
+	"DOWNLOAD"			: "https://github.com/malahx/StockSCANsat/releases",
+	"VERSION": {
+		"MAJOR"			: 1,
+		"MINOR"			: 0,
+		"PATCH"			: 2,
+		"BUILD"			: 0
+	},
     "KSP_VERSION": {
-        "MAJOR": 1,
-        "MINOR": 0,
-        "PATCH": 4
+        "MAJOR"			: 1,
+        "MINOR"			: 1,
+        "PATCH"			: 0
     },
     "KSP_VERSION_MIN": {
-        "MAJOR": 1,
-        "MINOR": 0,
-        "PATCH": 0
+        "MAJOR"			: 1,
+        "MINOR"			: 1,
+        "PATCH"			: 0
     },
     "KSP_VERSION_MAX": {
-        "MAJOR": 1,
-        "MINOR": 0,
-        "PATCH": -1
+        "MAJOR"			: 1,
+        "MINOR"			: 1,
+        "PATCH"			: 99
     }
 }
